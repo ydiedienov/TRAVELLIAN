@@ -352,7 +352,7 @@ a {
     cursor: pointer;
     width: 20px;
     height: 20px;
-    background-image: url("/img/star.svg");
+    background-image: url("../img/star.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
