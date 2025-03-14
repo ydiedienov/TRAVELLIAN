@@ -10,7 +10,7 @@ Users can rate and review tickets, making it easier to choose the best travel op
 A visually stunning image slider is implemented using Swiper.js, enabling users to browse destinations with smooth transitions and interactive effects.
 
 ### 🎭 Dynamic Animations
-Engaging CSS animations and JavaScript effects bring the interface to life, enhancing user engagement and making interactions more immersive.
+Engaging CSS animations and effects bring the interface to life, enhancing user engagement and making interactions more immersive.
 
 ### 📱 Fully Responsive Design
 The platform is fully optimized for all screen sizes, ensuring a seamless experience across desktops, tablets, and mobile devices. It dynamically adapts to different resolutions, maintaining usability and aesthetics.
