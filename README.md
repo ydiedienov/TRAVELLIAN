@@ -2,8 +2,6 @@
 TRAVELLIAN is a sleek, modern, and fully responsive travel booking platform designed to enhance the way users search, rate, and explore travel tickets. Whether you're planning a quick getaway or a long vacation, TRAVELLIAN helps you find the best options with ease! 🚀
 
 ## ✨ Key Features
-### 🔍 Advanced Search System
-TRAVELLIAN provides a smart and intuitive search engine that allows users to quickly find travel tickets based on their preferences. The dynamic filtering ensures a smooth user experience, helping travelers make informed decisions.
 
 ### ⭐ Rating System
 Users can rate and review tickets, making it easier to choose the best travel options based on real feedback. This feature adds a community-driven aspect, improving trust and reliability.
@@ -24,10 +22,11 @@ For smaller screens (tablet & mobile view), TRAVELLIAN features a burger menu, a
 The layout is structured using CSS Flexbox & Grid, providing a scalable, maintainable, and modern design framework for a smooth and consistent UI experience.
 
 ### 💻 Tech Stack
-HTML5 – Semantic and well-structured markup
-CSS3 – Styled with Flexbox & Grid for a modern, adaptive layout
-JavaScript (Vanilla JS) – Interactive elements and animations
-Swiper.js – Smooth, touch-enabled sliders
-Responsive Design – Optimized for various screen sizes
+- HTML5 – Semantic and well-structured markup
+- CSS3 – Styled with Flexbox & Grid for a modern, adaptive layout
+- JavaScript (Vanilla JS) – Interactive elements and animations
+- Swiper.js – Smooth, touch-enabled sliders
+- Responsive Design – Optimized for various screen sizes
+
 ## 🚀 Live Demo
 Experience TRAVELLIAN live: [Travellian](https://ydiedienov.github.io/TRAVELLIAN/)
