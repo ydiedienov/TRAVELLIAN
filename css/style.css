@@ -324,7 +324,7 @@ a {
 }
 
 .travelspot-card__location::before {
-    content: url(/img/location-icon.svg);
+    content: url("../img/location-icon.svg");
     display: block;
     width: 24px;
     height: 24px;
